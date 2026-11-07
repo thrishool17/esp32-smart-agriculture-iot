@@ -10,6 +10,9 @@ An automated, low-power **IoT Smart Agriculture Field Station** built on the **E
 
 ### Live Dashboard
 <img width="1920" height="1200" alt="Screenshot (637)" src="https://github.com/user-attachments/assets/5f00d8f5-87c6-4e37-95a5-203fe9a5e2ad" />
+[hardware.jpg]
+<img width="3072" height="4096" alt="IMG_20261107_131615" src="https://github.com/user-attachments/assets/e9a46584-e1b8-4de5-a957-c54a6eaafb7c" />
+
 
 
 ## Hardware Components & Pinout
