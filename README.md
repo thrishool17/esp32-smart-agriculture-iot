@@ -8,7 +8,9 @@
 
 An automated, low-power **IoT Smart Agriculture Field Station** built on the **ESP32 microcontroller**. The system monitors real-time environmental and soil parameters—including **soil moisture**, **ambient temperature**, **relative humidity**, and **atmospheric gas concentrations**—displaying telemetry locally on a 0.96" SSD1306 OLED display and streaming time-series data to the **ThingSpeak IoT Cloud**.
 
----
+### Live Dashboard
+<img width="1920" height="1200" alt="Screenshot (637)" src="https://github.com/user-attachments/assets/5f00d8f5-87c6-4e37-95a5-203fe9a5e2ad" />
+
 
 ## Hardware Components & Pinout
 
@@ -28,6 +30,7 @@ An automated, low-power **IoT Smart Agriculture Field Station** built on the **E
 - **Hardware-safe ADC routing**: Analog sensors assigned strictly to **ADC1** pins (`GPIO 34`, `GPIO 35`) to prevent conflict with the active Wi-Fi radio.
 
 ---
+
 
 ## Author
 
